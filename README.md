@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **hizqeelnizamani690@gmail.com**
 
-- ⚡ Fun fact **i am in love coding**
+- ⚡ Fun fact **i am in love with coding**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -36,4 +36,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ezekielnizamani&show_icons=true&locale=en" alt="ezekielnizamani" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ezekielnizamani&" alt="ezekielnizamani" /></p>
-
