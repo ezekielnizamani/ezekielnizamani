@@ -1,13 +1,10 @@
 <h1 align="center">Hi 👋, I'm Hizqeel</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">A passionate web app developer/h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ezekielnizamani&label=Profile%20views&color=0e75b6&style=flat" alt="ezekielnizamani" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezekielnizamani" alt="ezekielnizamani" /></a> </p>
 
-- 🌱 I’m currently learning **redux and ui ux design**
-
-- 💬 Ask me about **JavaScript react js**
 
 - 📫 How to reach me **hizqeelnizamani690@gmail.com**
 
