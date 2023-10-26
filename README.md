@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ezekielnizamani" alt="ezekielnizamani" /></a> </p>
 
 
-- 📫 How to reach me **hizqeelnizamani690@gmail.com**
+- 📫 How to reach me **ezekielnizamani0@gmail.com**
 
 - ⚡ Fun fact **i am in love with coding**
 
